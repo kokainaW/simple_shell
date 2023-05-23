@@ -62,7 +62,7 @@ typedef struct liststr
  * @line_count: the error count
  * @err_num: the error code for exit()s
  * @linecount_flag: if on count this line of input
- * @fname: the Program filename
+ * @fname: the copies a stringrogram filename
  * @env: linked list local copy of environ
  * @environ: custom modified copy of environ from LL env
  * @history: the history node
