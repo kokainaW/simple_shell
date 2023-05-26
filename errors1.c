@@ -1,4 +1,5 @@
 #include "shell.h"
+#include <stddef.h>
 
 /**
  * _erratoi - converts a string to an integer
